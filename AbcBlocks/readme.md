@@ -2,8 +2,6 @@
 
 Source: https://cyber-dojo.org/, which credits https://rosettacode.org/wiki/ABC_Problem
 
-My practice: https://cyber-dojo.org/kata/edit/3zeVVt
-
 ## Note
 
 I think there are some test cases missing from the prompt that would be good to add and implement as a follow up - namely, when a letter in a word exists on multiple blocks but *only one* of those blocks will work to spell the word.

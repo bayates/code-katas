@@ -2,8 +2,6 @@
 
 Source: https://cyber-dojo.org/, which credits https://rosettacode.org
 
-My practice: https://cyber-dojo.org/kata/edit/pYwxVK
-
 ## Prompt
 
 Write the smallest program that outputs the lyrics of the Xmas carol The Twelve Days of Xmas.

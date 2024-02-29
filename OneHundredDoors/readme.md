@@ -2,8 +2,6 @@
 
 Source: https://cyber-dojo.org/, which credits https://rosettacode.org
 
-My practice: https://cyber-dojo.org/kata/edit/xCAbLP
-
 ## Prompt
 
 100 doors in a row are all initially closed. You make 100 passes by the doors. The first time through, you visit every door and toggle the door (if the door is closed, you open it; if it is open, you close it).
